@@ -32,7 +32,7 @@ public class Review1 {
 
 	public static void q5() {
 		//Write question 5 code here
-
+		
 	}
 
 }
