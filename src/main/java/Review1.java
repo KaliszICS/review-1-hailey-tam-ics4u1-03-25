@@ -27,12 +27,16 @@ public class Review1 {
 
 	public static void q4() {
 		//Write question 4 code here
-
+		boolean bool = true;
+		System.out.println(bool);
 	}
 
 	public static void q5() {
 		//Write question 5 code here
-		
+		String word1 = "Hello";
+		String word2 = "World";
+		System.out.print(word1);
+		System.out.println(" "+ word2);
 	}
 
 }
